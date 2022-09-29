@@ -21,9 +21,6 @@
         </thingCategories>
         <generateCommonality>2</generateCommonality>
         <apparel>
-            <defaultOutfitTags>
-                <li>Soldier</li>
-            </defaultOutfitTags>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
         </apparel>
         <thingSetMakerTags>
