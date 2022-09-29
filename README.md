@@ -1,1 +1,1 @@
-patch to make Dusk Armory medieval style assets be available while the guns and chainsaw etc are locked out
+Patch to make Dusk Armory medieval style assets be available at medieval tech level.  Higher tech items remain locked at higher tech levels.
