@@ -9,8 +9,8 @@
             <li>ComplexClothing</li>
         </prerequisites>
         <techLevel>Medieval</techLevel>        
-        <researchViewX>15.00</researchViewX>
-        <researchViewY>5</researchViewY>
+        <researchViewX>0.00</researchViewX>
+        <researchViewY>1.25</researchViewY>
         <tab>Dusk Armory</tab>
     </ResearchProjectDef>
 </Defs>
@@ -25,8 +25,8 @@
             <li>Smithing</li>
         </prerequisites>
         <techLevel>Medieval</techLevel>        
-        <researchViewX>15.00</researchViewX>
-        <researchViewY>5</researchViewY>
+        <researchViewX>2</researchViewX>
+        <researchViewY>1.25</researchViewY>
         <tab>Dusk Armory</tab>
     </ResearchProjectDef>
 </Defs>
