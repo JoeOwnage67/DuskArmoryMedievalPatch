@@ -137,6 +137,16 @@
 							<workToMake>16000</workToMake>
                     				</value>
 			</li>
+			
+<!-- Change apparel layers -->
+			<li Class="PatchOperationReplace">
+                    			<xpath>Defs/ThingDef[@Name="DF_Cloak"]/apparel/layers</xpath>
+                    				<value>
+							<layers>
+                						<li>VFEC_OuterShell</li>
+           						 </layers>
+                    				</value>
+			</li>
 		</operations>				
 	</match>
 </Operation>		
