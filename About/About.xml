@@ -8,6 +8,7 @@
 	<packageId>JoeDaly.Dusk</packageId>
   
 	<loadAfter>
+		<li>Vanilla Factions Expanded - Core</li>
 		<li>Harkon.DF.Dusk</li>	
 	</loadAfter>
 
@@ -15,7 +16,11 @@
 	  <li>
 		  <packageId>Harkon.DF.Dusk</packageId>
 		  <displayName>Dusk Armory</displayName>
-	  </li>	  
+	  </li>
+	   <li>
+		  <packageId>OskarPotocki.VanillaFactionsExpanded.Core</packageId>
+		  <displayName>Vanilla Factions Expanded - Core</displayName>
+	  </li>		
 	</modDependencies>
 	<description>patch to make Dusk Armory medieval style assets be available while the guns and chainsaw etc are locked out</description>
 </ModMetaData>
