@@ -13,9 +13,8 @@
         <researchViewY>1.25</researchViewY>
         <tab>Dusk Armory</tab>
     </ResearchProjectDef>
-</Defs>
 
-<Defs>
+
     <ResearchProjectDef>
         <defName>DF_Dusk_Blades</defName>
         <label>Dusk Blades</label>
