@@ -3,7 +3,7 @@
     <ResearchProjectDef>
         <defName>DF_Dusk_Medieval_Apparel</defName>
         <label>Dusk Medieval Apparel</label>
-        <description>Unlock the secrets to crafting Dusk medieval apparel.</description>
+        <description>Unlock the secrets to crafting Dusk medieval apparel and armour.</description>
         <baseCost>3500</baseCost>
         <prerequisites>
             <li>ComplexClothing</li>
