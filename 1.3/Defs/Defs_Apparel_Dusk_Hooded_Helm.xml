@@ -5,7 +5,7 @@
     <ThingDef ParentName="DF_Helm" Name="DF_Helm_Hood">
         <defName>DF_Dusk_Helm_Hooded</defName>
         <label>Dusk Hooded Helm</label>
-        <description>The Dusk Helm is extremely sturdy and lightweight, surviving a Titan's fists without a scratch.</description>
+        <description>The Dusk Helm is extremely sturdy and lightweight, and is worn over a very thickly padded fabric coif. Provides excellent protection to the entire head, but, like with most full-face helmets, limits one's field of vision and constricts breathing when worn.</description>
         <graphicData>
             <texPath>Things/Apparel/Helmet/Hooded/Dusk_Helmet_UI</texPath>
             <graphicClass>Graphic_Single</graphicClass>
