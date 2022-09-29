@@ -5,7 +5,7 @@
     <ThingDef Name="DF_Helm" ParentName="ArmorHelmetMakeableBase" Abstract="True">
         <techLevel>Medieval</techLevel>
         <recipeMaker>
-            <unfinishedThingDef>UnfinishedArmor</unfinishedThingDef>
+            <unfinishedThingDef>UnfinishedApparel</unfinishedThingDef>
             <researchPrerequisite>DF_Dusk_Medieval_Apparel</researchPrerequisite>
             <skillRequirements>
                 <Crafting>8</Crafting>
