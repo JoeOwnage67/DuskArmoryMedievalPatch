@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ResearchProjectDef>
+        <defName>DF_Dusk_Medieval_Apparel</defName>
+        <label>Dusk Medieval Apparel</label>
+        <description>Unlock the secrets to crafting Dusk medieval apparel.</description>
+        <baseCost>3500</baseCost>
+        <prerequisites>
+            <li>ComplexClothing</li>
+        </prerequisites>
+        <techLevel>Medieval</techLevel>        
+        <researchViewX>15.00</researchViewX>
+        <researchViewY>5</researchViewY>
+    </ResearchProjectDef>
+</Defs>
+
+<Defs>
+    <ResearchProjectDef>
+        <defName>DF_Dusk_Blades</defName>
+        <label>Dusk Blades</label>
+        <description>Unlock the secrets to crafting Dusk blades.</description>
+        <baseCost>3500</baseCost>
+        <prerequisites>
+            <li>Smithing</li>
+        </prerequisites>
+        <techLevel>Medieval</techLevel>        
+        <researchViewX>15.00</researchViewX>
+        <researchViewY>5</researchViewY>
+    </ResearchProjectDef>
+</Defs>
+
