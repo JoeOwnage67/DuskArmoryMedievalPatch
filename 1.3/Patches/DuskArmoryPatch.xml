@@ -73,9 +73,13 @@
 			</li>
 			<li Class="PatchOperationReplace">
           			<xpath>Defs/ThingDef[defName="DF_Dusk_Kris"]/recipeMaker/recipeUsers</xpath>
-            				<recipeUsers Inherit="False">
-                				<li>FueledSmithy</li>
-            				</recipeUsers>
+					<value>
+            					<recipeUsers Inherit="False">
+                					<li>FueledSmithy</li>
+							<li>FabricationBench</li>
+							<li>ElectricSmithy</li>
+            					</recipeUsers>
+					</value>
 			</li>
 				<li Class="PatchOperationAdd">
           			<xpath>Defs/ThingDef[defName="DF_Dusk_Kris"]</xpath>
@@ -110,9 +114,13 @@
 			</li>
 			<li Class="PatchOperationReplace">
           			<xpath>Defs/ThingDef[defName="DF_Dusk_Razor"]/recipeMaker/recipeUsers</xpath>
-            				<recipeUsers Inherit="False">
-                				<li>FueledSmithy</li>
-            				</recipeUsers>
+					<value>
+            					<recipeUsers Inherit="False">
+                					<li>FueledSmithy</li>
+							<li>ElectricSmithy</li>
+							<li>FabricationBench</li>
+            					</recipeUsers>
+				 	</value>
 			</li>
 			<li Class="PatchOperationAdd">
           			<xpath>Defs/ThingDef[defName="DF_Dusk_Razor"]</xpath>
