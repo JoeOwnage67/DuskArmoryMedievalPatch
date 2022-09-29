@@ -10,10 +10,15 @@
         <li Class="PatchOperationReplace">
           <xpath>Defs/ThingDef[defName="DF_Dusk_Cloak"]/techLevel</xpath>
             <value>
-						  <techLevel>Medieval</techLevel>
+	    	<techLevel>Medieval</techLevel>
             </value>
-				</li>
-        
+	</li>
+        <li Class="PatchOperationAdd">
+          <xpath>Defs/ThingDef[defName="DF_Dusk_Research"]</xpath>
+          	<value>
+      	    		<tab>Dusk Armory</tab>
+    		</value>
+	</li>
         
         
         
