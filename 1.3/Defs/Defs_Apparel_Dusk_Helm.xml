@@ -67,6 +67,9 @@
             <tags Inherit = "False">
                 <li>RNApparel_ReactiveHelmet_VOID</li>
             </tags>
+	    <defaultOutfitTags>
+            	<li>Soldier</li>
+            </defaultOutfitTags>
         </apparel>
         <equippedStatOffsets>
             <ToxicSensitivity>-100</ToxicSensitivity>
@@ -74,9 +77,7 @@
             <PainShockThreshold>0.10</PainShockThreshold>
             <SocialImpact>0.15</SocialImpact>    
         </equippedStatOffsets>
-        <defaultOutfitTags>
-          <li>Soldier</li>
-        </defaultOutfitTags>
+     
     </ThingDef>
 
 </Defs>
