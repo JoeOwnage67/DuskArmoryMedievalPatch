@@ -26,7 +26,7 @@
 			
 <!-- Add exisitng research to new research tab -->
         		<li Class="PatchOperationAdd">
-          			<xpath>Defs/ThingDef[defName="DF_Dusk_Research"]</xpath>
+          			<xpath>Defs/ResearchProjectDef[defName="DF_Dusk_Research"]</xpath>
           				<value>
       	    					<tab>Dusk Armory</tab>
     					</value>
@@ -34,13 +34,13 @@
 			
 <!-- Change Position of Research on tab -->
 			<li Class="PatchOperationReplace">
-          			<xpath>Defs/ThingDef[defName="DF_Dusk_Research]/researchViewX</xpath>
+          			<xpath>Defs/ResearchProjectDef[defName="DF_Dusk_Research]/researchViewX</xpath>
             				<value>
 		    				<researchViewX>4</researchViewX>	    	
             				</value>
 			</li>
 			<li Class="PatchOperationReplace">
-          			<xpath>Defs/ThingDef[defName="DF_Dusk_Research]/researchViewY</xpath>
+          			<xpath>Defs/ResearchProjectDef[defName="DF_Dusk_Research]/researchViewY</xpath>
             				<value>
 		    				<researchViewY>1.25</researchViewY>	    	
             				</value>
