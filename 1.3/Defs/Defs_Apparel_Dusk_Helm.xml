@@ -22,6 +22,9 @@
         <generateCommonality>2</generateCommonality>
         <apparel>
             <useDeflectMetalEffect>true</useDeflectMetalEffect>
+	    <defaultOutfitTags>
+                <li>Soldier</li>
+            </defaultOutfitTags>
         </apparel>
         <thingSetMakerTags>
             <li>RewardStandardHighFreq</li>
