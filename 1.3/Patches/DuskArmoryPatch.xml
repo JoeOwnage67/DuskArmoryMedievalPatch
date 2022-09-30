@@ -28,7 +28,7 @@
         		<li Class="PatchOperationAdd">
           			<xpath>Defs/ResearchProjectDef[defName="DF_Dusk_Research"]</xpath>
           				<value>
-      	    					<tab>Dusk Armory</tab>
+      	    					<tab>DuskArmoryTab</tab>
     					</value>
 			</li>
 			
