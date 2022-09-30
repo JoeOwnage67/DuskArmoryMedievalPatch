@@ -11,7 +11,7 @@
         <techLevel>Medieval</techLevel>        
         <researchViewX>0.00</researchViewX>
         <researchViewY>1.25</researchViewY>
-        <tab>Dusk Armory</tab>
+        <tab>DuskArmoryTab</tab>
     </ResearchProjectDef>
 
 
@@ -26,7 +26,7 @@
         <techLevel>Medieval</techLevel>        
         <researchViewX>2</researchViewX>
         <researchViewY>1.25</researchViewY>
-        <tab>Dusk Armory</tab>
+        <tab>DuskArmoryTab</tab>
     </ResearchProjectDef>
 </Defs>
 
