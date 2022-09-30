@@ -99,9 +99,9 @@
                     				</value>
 			</li>
 			<li Class="PatchOperationReplace">
-                    			<xpath>Defs/ThingDef[defName="DF_Dusk_Kris"]/statBases/workToMake</xpath>
+                    			<xpath>Defs/ThingDef[defName="DF_Dusk_Kris"]/statBases/WorkToMake</xpath>
                     				<value>
-							<workToMake>8000</workToMake>
+							<WorkToMake>8000</WorkToMake>
                     				</value>
 			</li>
 			
@@ -140,9 +140,9 @@
                     				</value>
 			</li>
 			<li Class="PatchOperationReplace">
-                    			<xpath>Defs/ThingDef[defName="DF_Dusk_Razor"]/statBases/workToMake</xpath>
+                    			<xpath>Defs/ThingDef[defName="DF_Dusk_Razor"]/statBases/WorkToMake</xpath>
                     				<value>
-							<workToMake>16000</workToMake>
+							<WorkToMake>16000</WorkToMake>
                     				</value>
 			</li>
 			
