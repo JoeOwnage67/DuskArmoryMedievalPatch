@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
 
-    <!-- Dusk Helm -->
+    <!-- Dusk Helm Parent Def-->
     <ThingDef Name="DF_Helm" ParentName="ArmorHelmetMakeableBase" Abstract="True">
         <techLevel>Medieval</techLevel>
         <recipeMaker>
@@ -31,6 +31,8 @@
         </thingSetMakerTags>
     </ThingDef>
 
+	
+<!-- Dusk Helm -->
     <ThingDef ParentName="DF_Helm">
         <defName>DF_Dusk_Helm</defName>
         <label>Dusk Helm</label>
@@ -38,6 +40,7 @@
         <graphicData>
             <texPath>Things/Apparel/Helmet/Dusk_Helmet_UI</texPath>
             <graphicClass>Graphic_Single</graphicClass>
+		<shaderType>CutoutComplex</shaderType>
         </graphicData>
       
       	<stuffCategories>
@@ -64,6 +67,7 @@
                 <li>Overhead</li>
             </layers>
             <wornGraphicPath>Things/Apparel/Helmet/Dusk_Helmet</wornGraphicPath>
+		<useWornGraphicMask>true</useWornGraphicMask>
             <tags Inherit = "False">
                 <li>RNApparel_ReactiveHelmet_VOID</li>
             </tags>
