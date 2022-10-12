@@ -24,7 +24,7 @@
 			
 			
 			
-<!-- Add exisitng research to new research tab -->
+<!-- Add existing research to new research tab -->
         		<li Class="PatchOperationAdd">
           			<xpath>Defs/ResearchProjectDef[defName="DF_Dusk_Research"]</xpath>
           				<value>
