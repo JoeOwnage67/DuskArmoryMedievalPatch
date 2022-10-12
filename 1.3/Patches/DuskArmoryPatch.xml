@@ -179,7 +179,7 @@
     					</value>
 			</li>
 			<li Class="PatchOperationAdd">
-          			<xpath>Defs/ThingDef[@Name="DF_Helmet]</xpath>
+          			<xpath>Defs/ThingDef[@Name="DF_Helmet"]</xpath>
 					<value>
 						<graphicData>
       	    						<shaderType>CutoutComplex</shaderType>
