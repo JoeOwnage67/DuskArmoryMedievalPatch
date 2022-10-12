@@ -146,14 +146,43 @@
                     				</value>
 			</li>
 			
-<!-- Change apparel layers -->
+<!-- Change apparel layers for Cloaks -->
+			<li Class="PatchOperationAdd">
+          			<xpath>Defs/ThingDef[@Name="DF_Cloak"]</xpath>
+					<value>
+      	    					<modExtensions>
+							<li Class="VFECore.ApparelDrawPosExtension">
+								<apparelDrawSettings>
+									<drawPosNorthOffset>(0, 0.2, 0)</drawPosNorthOffset>
+									<drawPosSouthOffset>(0, 0.006, 0)</drawPosSouthOffset>
+									<drawPosWestOffset>(0, 0.2, 0)</drawPosWestOffset>
+									<drawPosEastOffset>(0, 0.2, 0)</drawPosEastOffset>
+								</apparelDrawSettings>
+							</li>
+	   					 </modExtensions>
+    					</value>
+			</li>
 			<li Class="PatchOperationReplace">
                     			<xpath>Defs/ThingDef[@Name="DF_Cloak"]/apparel/layers</xpath>
                     				<value>
 							<layers>
-                						<li>VFEC_OuterShell</li>
+                						<li>Joe_ShellAttachment</li>
            						 </layers>
                     				</value>
+			</li>
+			
+<!-- Use Masks on Hoods-->
+			<li Class="PatchOperationAdd">
+          			<xpath>Defs/ThingDef[@Name="DF_Hood"]/graphicData</xpath>
+					<value>
+      	    					<shaderType>CutoutComplex</shaderType>	 
+    					</value>
+			</li>
+			<li Class="PatchOperationAdd">
+          			<xpath>Defs/ThingDef[@Name="DF_Hood"]/apparel</xpath>
+					<value>
+      	    					<useWornGraphicMask>true</useWornGraphicMask> 
+    					</value>
 			</li>
 		</operations>				
 	</match>
