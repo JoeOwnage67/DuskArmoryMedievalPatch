@@ -5,7 +5,7 @@
   <ApparelLayerDef>
     <defName>Joe_ShellAttachment</defName>
     <label>attachment</label>
-    <drawOrder>500</drawOrder>
+    <drawOrder>400</drawOrder>
 </ApparelLayerDef>
 
 </Defs>
