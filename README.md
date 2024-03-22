@@ -1,3 +1,5 @@
+**Dusk Armory Medieval Patch**
+
 **Support**
 
 If you like this content, feel free buy me a coffee at ko-fi.com/joeownage 
@@ -17,6 +19,10 @@ I made this patch to make Dusk Armory Medieval style assets be available at Medi
 THIS MOD:
 
 https://github.com/JoeOwnage67/DuskArmoryMedievalPatch/
+
+HOODED HELMS FOR MEDIEVAL OVERHAUL (ALSO FEATURES ART FROM DUSK):
+
+https://github.com/JoeOwnage67/Hooded-Helms-addon-for-Medieval-Overhaul
 
 **UPDATES**
 
