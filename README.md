@@ -1,4 +1,4 @@
-**Dusk Armory Medieval Patch**
+**DUSK ARMORY MEDIEVAL PATCH**
 
 **Support**
 
