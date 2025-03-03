@@ -75,8 +75,7 @@
             	<li>Soldier</li>
             </defaultOutfitTags>
         </apparel>
-        <equippedStatOffsets>
-            <ToxicSensitivity>-100</ToxicSensitivity>
+        <equippedStatOffsets>            
             <ShootingAccuracyPawn>-3</ShootingAccuracyPawn>
             <PainShockThreshold>0.10</PainShockThreshold>
             <SocialImpact>0.15</SocialImpact>    

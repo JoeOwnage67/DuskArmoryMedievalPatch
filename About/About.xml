@@ -9,12 +9,10 @@
 			<li>1.5</li>
     </supportedVersions>
 	<packageId>JoeDaly.Dusk</packageId>
-  
-	<loadAfter>
+  	<loadAfter>
 		<li>Vanilla Expanded Framework</li>
 		<li>Harkon.DF.Dusk</li>	
 	</loadAfter>
-
 	<modDependencies>
 	  <li>
 		  <packageId>Harkon.DF.Dusk</packageId>
@@ -27,15 +25,3 @@
 	</modDependencies>
 	<description>patch to make Dusk Armory medieval style assets be available while the guns and chainsaw etc are locked out</description>
 </ModMetaData>
-
-	<loadAfter>
-		<li>DankPyon.Medieval.Overhaul</li>
-		<li>[sd] medicaddons (unofficial)</li>
-	</loadAfter>
-
-	<modDependencies>
-	  <li>
-		  <packageId>DankPyon.Medieval.Overhaul</packageId>
-		  <displayName>Medieval Overhaul</displayName>
-	  </li>
-	</modDependencies>
